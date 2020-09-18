@@ -1,0 +1,10 @@
+@import './css//Square.css';
+@import './css/Board.css';
+@import './css/Game.css';
+
+@import './css/components/Button.css';
+
+.App {
+  padding: 50px;
+  display: flex;
+}

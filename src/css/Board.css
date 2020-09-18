@@ -1,0 +1,7 @@
+.Board {
+  width: 255px;
+  display: flex;
+  flex-wrap: wrap;
+  border-top: solid 1px #cfd8dc;
+  border-left: solid 1px #cfd8dc;
+}

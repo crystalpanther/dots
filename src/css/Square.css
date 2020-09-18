@@ -1,0 +1,14 @@
+.Square {
+  border-bottom: solid 1px #cfd8dc;
+  border-right: solid 1px #cfd8dc;
+  height: 50px;
+  width: 50px;
+}
+
+.SquareBlue {
+  background-color: #42d8e8;
+}
+
+.SquareGreen {
+  background-color: #2fe871;
+}
